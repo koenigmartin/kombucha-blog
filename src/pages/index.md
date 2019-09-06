@@ -12,7 +12,7 @@ offerings:
     - image: /img/coffee.png
       text: |
         General stuff like, plastic, bacteria and so on.
-    - image: /img/coffee-gear.png
+    - image: /img/img_1593.jpg
       text: F1 recipe and procedure.
     - image: /img/tutorials.png
       text: |
