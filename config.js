@@ -8,9 +8,9 @@ module.exports = {
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '', // GTM tracking ID.
- //disqusShortname: 'kombucha-blog', // Disqus shortname.
-  //userName: 'Vaibhav Sharma',
-  //userTwitter: 'vaibhaved',
+  disqusShortname: 'NA', // Disqus shortname.
+  userName: 'NA',
+  userTwitter: 'NA',
   userLocation: 'Innsbruck, Austria',
   userDescription: '',
   copyright: 'Copyright © Martinew 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
