@@ -5,7 +5,10 @@ slug: lavender-sage-lemon_peel
 date: 2019-09-06T18:27:58.423Z
 cover: /img/lavender-sage-lemon_peel.jpeg
 tags:
-  - f2 lavender sage lemon_peel
+  - f2
+  - lavender
+  - sage
+  - lemon_peel
 meta_title: f2 lavender sage lemon_peel
 meta_description: f2 lavender sage lemon_peel
 ---
