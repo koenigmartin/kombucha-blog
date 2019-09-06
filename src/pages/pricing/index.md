@@ -1,40 +1,36 @@
 ---
 templateKey: pricing-page
 title: Pricing
-meta_title: Pricing | Kombucha Blog
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+image: /img/bildschirmfoto-2019-09-06-um-21.07.17.png
 pricing:
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta justo justo, 
-    non semper odio cursus in. Curabitur ligula tortor, tristique non odio nec, imperdiet 
-    mattis leo. Vivamus aliquam rhoncus tortor vitae convallis. Aliquam non dui nibh. Nam 
-    a velit at enim sagittis pellentesque.
+  description: 'Monthly subscription is based on volume and price of the ingredients. '
   heading: Monthly subscriptions
   plans:
-    - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
+    - description: The basic starter plan for your personal kombucha needs.
       items:
-        - Lorem ipsum dolor sit amet
-        - consectetur adipiscing elit
-        - Nunc finibus sem a sem ultrices
+        - >-
+          Two different kinds of kombucha one litre each. Flavours vary each
+          week.
       plan: Pro
-      price: '50'
-    - description: Mauris vitae dolor eu mauris malesuada cursus.
+      price: '10'
+    - description: Kombucha for the whole office. Let's get picky!
       items:
-        - eget sagittis magna tempor
-        - Quisque pulvinar lorem molestie
-        - Proin at sagittis ex
+        - >-
+          Three different kinds of kombucha of your choice (chosen from our
+          f2-recipe list) as well as one special of the week for a grand total
+          of 10 litres.
       plan: Enterprise
-      price: '80'
-    - description: Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus.
+      price: '50'
+    - description: For special wishes or bulk orders.
       items:
-        - Pellentesque luctus neque id mauris accumsan
-        - nec imperdiet justo eleifend
-        - Sed eget ornare orci
+        - You want us to create your personal recipe
+        - create a special flavour
+        - >-
+          get a scoby or order more than 20l at once? Contact us so we can
+          figure something out.
       plan: Custom
       price: '??'
+meta_title: Pricing | Kombucha Blog
+meta_description: Pricing
 ---
 
